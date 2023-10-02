@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/CMakeFiles/bootloader
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/CMakeFiles/bootloader.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/CMakeFiles/bootloader-complete.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/caio_/source/repos/esp32s2_lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
